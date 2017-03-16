@@ -43,6 +43,7 @@
 * Spring Framework
 * Apache Tomcat
 * MongoDB
+* KMongo
 
 ## Игры
 
