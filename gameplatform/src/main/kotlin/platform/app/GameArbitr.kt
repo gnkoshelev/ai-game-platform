@@ -1,6 +1,9 @@
-package app
+package platform.app
 
-import app.controllers.Game
+import platform.app.GameSnapshot
+import platform.app.GameState
+import platform.app.controllers.Game
+import platform.gamelib.AI
 
 
 class GameArbitr(game: Game) {

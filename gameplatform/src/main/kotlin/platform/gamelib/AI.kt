@@ -1,4 +1,4 @@
-package app
+package platform.gamelib
 
 /**
  * Created by Vitaliy on 17.03.2017.

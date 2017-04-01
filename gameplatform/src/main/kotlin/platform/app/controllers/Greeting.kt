@@ -1,4 +1,4 @@
-package app.controllers
+package platform.app.controllers
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RequestParam

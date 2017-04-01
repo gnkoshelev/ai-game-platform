@@ -1,4 +1,4 @@
-package app
+package platform.app
 
 
 import org.springframework.boot.SpringApplication

@@ -1,4 +1,4 @@
-package app
+package platform.app
 
 /**
  * Created by Vitaliy on 17.03.2017.

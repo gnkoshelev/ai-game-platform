@@ -1,4 +1,4 @@
-package app.controllers
+package platform.app.controllers
 
 import com.fasterxml.jackson.annotation.JacksonAnnotation
 import com.mongodb.client.MongoCollection
